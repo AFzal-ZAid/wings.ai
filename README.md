@@ -1,0 +1,2 @@
+# wings.ai
+FinPay Project
